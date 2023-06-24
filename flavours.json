@@ -1,0 +1,143 @@
+{
+    "LEMONADE": {
+        "AQUABERRY": [
+            "STRAWBERRY",
+            "KIWI",
+            "BLUE RASPBERRY",
+            "WATERMELON"
+        ],
+        "ASTRONAUT": [
+            "BLACKBERRY",
+            "RASPBERRY",
+            "ALMOND"
+        ],
+        "DRAGON SLAYER": [
+            "RASPBERRY",
+            "BLUE RASPBERRY",
+            "BLACKBERRY DRIZZLE"
+        ],
+        "ECLIPSE": [
+            "PEACH",
+            "PASSION FRUIT",
+            "BLACKBERRY DRIZZLE",
+            "BLUE RASPBERRY DRIZZLE"
+        ],
+        "ELECTRIC BERRY": [
+            "LIME",
+            "BLUE RASPBERRY"
+        ],
+        "FIRE LIZARD": [
+            "STRAWBERRY",
+            "BANANA",
+            "ORANGE"
+        ],
+        "GALAXY FISH": [
+            "STRAWBERRY",
+            "LIME",
+            "PASSION FRUIT"
+        ],
+        "GEM BERRY": [
+            "BLACKBERRY",
+            "VANILLA",
+            "RASPBERRY"
+        ],
+        "GREEN TEA LEMONADE": [
+            "GREEN TEA",
+            "LEMONADE"
+        ],
+        "HAWAIIAN": [
+            "BANANA",
+            "ORANGE",
+            "PEACH",
+            "STRAWBERRY"
+        ],
+        "HYPERCHROME": [
+            "ORANGE",
+            "PASSION FRUIT",
+            "POMEGRANATE"
+        ],
+        "LASER CAT": [
+            "RASPBERRY",
+            "COCONUT"
+        ],
+        "MAJESTIC FOREST": [
+            "BLACKBERRY",
+            "BLUE RASPBERRY",
+            "KIWI"
+        ],
+        "MARMALADE": [
+            "STRAWBERRY",
+            "ORANGE",
+            "GRAPEFRUIT"
+        ],
+        "MIDNIGHT": [
+            "BLACKBERRY",
+            "POMEGRANATE"
+        ],
+        "OG GUMMYBEAR": [
+            "POMEGRANATE",
+            "PASSION FRUIT",
+            "WATERMELON",
+            "GRAPEFRUIT"
+        ],
+        "PALM BEACH": [
+            "POMEGRANATE",
+            "PEACH"
+        ],
+        "PALM TREE": [
+            "POMEGRANATE",
+            "PASSION FRUIT",
+            "LIME"
+        ],
+        "PASSION WATER": [
+            "PASSION FRUIT",
+            "WATERMELON"
+        ],
+        "RAY OF SUNSHINE": [
+            "BLACKBERRY",
+            "PEACH",
+            "GRAPEFRUIT"
+        ],
+        "ROCKY POINT": [
+            "BLACKBERRY",
+            "PEACH",
+            "COCONUT",
+            "ORANGE"
+        ],
+        "STARRY NIGHT": [
+            "BLUE RASPBERRY",
+            "BLACKBERRY"
+        ],
+        "STOP LIGHT": [
+            "POMEGRANATE",
+            "PASSION FRUIT",
+            "KIWI"
+        ],
+        "STRAWBERRY": [
+            "STRAWBERRY"
+        ],
+        "STRAWBERRY PINEAPPLE": [
+            "STRAWBERRY",
+            "PINEAPPLE"
+        ],
+        "SWEET SUNRISE": [
+            "PEACH",
+            "PASSION FRUIT",
+            "ORANGE",
+            "BANANA"
+        ],
+        "TIGER'S BLOOD": [
+            "STRAWBERRY",
+            "COCONUT"
+        ],
+        "TRICKY TRE": [
+            "ORANGE",
+            "PEACH"
+        ],
+        "TRIXIE": [
+            "ALMOND",
+            "ORANGE",
+            "POMEGRANATE"
+        ]
+    }
+}
