@@ -1,143 +1,143 @@
 {
-    "LEMONADE": {
-        "AQUABERRY": [
-            "STRAWBERRY",
-            "KIWI",
-            "BLUE RASPBERRY",
-            "WATERMELON"
+    "lemonade": {
+        "aquaberry": [
+            "strawberry",
+            "kiwi",
+            "blue raspberry",
+            "watermelon"
         ],
-        "ASTRONAUT": [
-            "BLACKBERRY",
-            "RASPBERRY",
-            "ALMOND"
+        "astronaut": [
+            "blackberry",
+            "raspberry",
+            "almond"
         ],
-        "DRAGON SLAYER": [
-            "RASPBERRY",
-            "BLUE RASPBERRY",
-            "BLACKBERRY DRIZZLE"
+        "dragon slayer": [
+            "raspberry",
+            "blue raspberry",
+            "blackberry drizzle"
         ],
-        "ECLIPSE": [
-            "PEACH",
-            "PASSION FRUIT",
-            "BLACKBERRY DRIZZLE",
-            "BLUE RASPBERRY DRIZZLE"
+        "eclipse": [
+            "peach",
+            "passion fruit",
+            "blackberry drizzle",
+            "blue raspberry drizzle"
         ],
-        "ELECTRIC BERRY": [
-            "LIME",
-            "BLUE RASPBERRY"
+        "electric berry": [
+            "lime",
+            "blue raspberry"
         ],
-        "FIRE LIZARD": [
-            "STRAWBERRY",
-            "BANANA",
-            "ORANGE"
+        "fire lizard": [
+            "strawberry",
+            "banana",
+            "orange"
         ],
-        "GALAXY FISH": [
-            "STRAWBERRY",
-            "LIME",
-            "PASSION FRUIT"
+        "galaxy fish": [
+            "strawberry",
+            "lime",
+            "passion fruit"
         ],
-        "GEM BERRY": [
-            "BLACKBERRY",
-            "VANILLA",
-            "RASPBERRY"
+        "gem berry": [
+            "blackberry",
+            "vanilla",
+            "raspberry"
         ],
-        "GREEN TEA LEMONADE": [
-            "GREEN TEA",
-            "LEMONADE"
+        "green tea lemonade": [
+            "green tea",
+            "lemonade"
         ],
-        "HAWAIIAN": [
-            "BANANA",
-            "ORANGE",
-            "PEACH",
-            "STRAWBERRY"
+        "hawaiian": [
+            "banana",
+            "orange",
+            "peach",
+            "strawberry"
         ],
-        "HYPERCHROME": [
-            "ORANGE",
-            "PASSION FRUIT",
-            "POMEGRANATE"
+        "hyperchrome": [
+            "orange",
+            "passion fruit",
+            "pomegranate"
         ],
-        "LASER CAT": [
-            "RASPBERRY",
-            "COCONUT"
+        "laser cat": [
+            "raspberry",
+            "coconut"
         ],
-        "MAJESTIC FOREST": [
-            "BLACKBERRY",
-            "BLUE RASPBERRY",
-            "KIWI"
+        "majestic forest": [
+            "blackberry",
+            "blue raspberry",
+            "kiwi"
         ],
-        "MARMALADE": [
-            "STRAWBERRY",
-            "ORANGE",
-            "GRAPEFRUIT"
+        "marmalade": [
+            "strawberry",
+            "orange",
+            "grapefruit"
         ],
-        "MIDNIGHT": [
-            "BLACKBERRY",
-            "POMEGRANATE"
+        "midnight": [
+            "blackberry",
+            "pomegranate"
         ],
-        "OG GUMMYBEAR": [
-            "POMEGRANATE",
-            "PASSION FRUIT",
-            "WATERMELON",
-            "GRAPEFRUIT"
+        "og gummybear": [
+            "pomegranate",
+            "passion fruit",
+            "watermelon",
+            "grapefruit"
         ],
-        "PALM BEACH": [
-            "POMEGRANATE",
-            "PEACH"
+        "palm beach": [
+            "pomegranate",
+            "peach"
         ],
-        "PALM TREE": [
-            "POMEGRANATE",
-            "PASSION FRUIT",
-            "LIME"
+        "palm tree": [
+            "pomegranate",
+            "passion fruit",
+            "lime"
         ],
-        "PASSION WATER": [
-            "PASSION FRUIT",
-            "WATERMELON"
+        "passion water": [
+            "passion fruit",
+            "watermelon"
         ],
-        "RAY OF SUNSHINE": [
-            "BLACKBERRY",
-            "PEACH",
-            "GRAPEFRUIT"
+        "ray of sunshine": [
+            "blackberry",
+            "peach",
+            "grapefruit"
         ],
-        "ROCKY POINT": [
-            "BLACKBERRY",
-            "PEACH",
-            "COCONUT",
-            "ORANGE"
+        "rocky point": [
+            "blackberry",
+            "peach",
+            "coconut",
+            "orange"
         ],
-        "STARRY NIGHT": [
-            "BLUE RASPBERRY",
-            "BLACKBERRY"
+        "starry night": [
+            "blue raspberry",
+            "blackberry"
         ],
-        "STOP LIGHT": [
-            "POMEGRANATE",
-            "PASSION FRUIT",
-            "KIWI"
+        "stop light": [
+            "pomegranate",
+            "passion fruit",
+            "kiwi"
         ],
-        "STRAWBERRY": [
-            "STRAWBERRY"
+        "strawberry": [
+            "strawberry"
         ],
-        "STRAWBERRY PINEAPPLE": [
-            "STRAWBERRY",
-            "PINEAPPLE"
+        "strawberry pineapple": [
+            "strawberry",
+            "pineapple"
         ],
-        "SWEET SUNRISE": [
-            "PEACH",
-            "PASSION FRUIT",
-            "ORANGE",
-            "BANANA"
+        "sweet sunrise": [
+            "peach",
+            "passion fruit",
+            "orange",
+            "banana"
         ],
-        "TIGER'S BLOOD": [
-            "STRAWBERRY",
-            "COCONUT"
+        "tiger's blood": [
+            "strawberry",
+            "coconut"
         ],
-        "TRICKY TRE": [
-            "ORANGE",
-            "PEACH"
+        "tricky tre": [
+            "orange",
+            "peach"
         ],
-        "TRIXIE": [
-            "ALMOND",
-            "ORANGE",
-            "POMEGRANATE"
+        "trixie": [
+            "almond",
+            "orange",
+            "pomegranate"
         ]
     }
 }
