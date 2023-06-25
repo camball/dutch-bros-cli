@@ -1,0 +1,4 @@
+{
+    "autoDocstring.customTemplatePath": ".vscode/sphinx_with_md.mustache",
+    "autoDocstring.includeExtendedSummary": true
+}

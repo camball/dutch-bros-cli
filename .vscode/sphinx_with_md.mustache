@@ -1,0 +1,37 @@
+{{! Cameron's Sphinx + Markdown Docstring Template }}
+{{summaryPlaceholder}}
+
+{{extendedSummaryPlaceholder}}
+
+{{#parametersExist}}
+### Parameters
+{{/parametersExist}}
+{{#args}}
+- :param `{{typePlaceholder}}` `{{var}}`: {{descriptionPlaceholder}}
+{{/args}}
+{{#kwargs}}
+- :param `{{typePlaceholder}}` `{{var}}`: {{descriptionPlaceholder}}, defaults to `{{&default}}`
+{{/kwargs}}
+
+{{#exceptionsExist}}
+### Raises
+{{/exceptionsExist}}
+{{#exceptions}}
+:raises `{{type}}`: {{descriptionPlaceholder}}
+{{/exceptions}}
+
+{{#returnsExist}}
+### Returns
+{{/returnsExist}}
+{{#returns}}
+:return: {{descriptionPlaceholder}}
+:rtype: `{{typePlaceholder}}`
+{{/returns}}
+
+{{#yieldsExist}}
+### Yields
+{{/yieldsExist}}
+{{#yields}}
+:yield: {{descriptionPlaceholder}}
+:rtype: `{{typePlaceholder}}`
+{{/yields}}
