@@ -55,6 +55,10 @@ def _print_drink(drink_name: str, flavours_not_passed: Flavours) -> None:
         print(capwords(drink_name))
 
 
+def closest_dutch_bros() -> str:
+    raise NotImplementedError
+
+
 def process(cmd: str) -> None:
     match cmd.lower().split():
         case ["quit" | "exit"]:
@@ -62,6 +66,12 @@ def process(cmd: str) -> None:
         case ["flavours"]:
             for flavour in sorted(DRINK_FLAVOURS):
                 print(capwords(flavour))
+        case ["find"]:
+            try:
+                print(closest_dutch_bros())
+            except NotImplementedError:
+                print("This feature not currently implemented. Check back soon! :)\n")
+                print("https://www.dutchbros.com/locations")
         case ["drinks", *flavours, "except", flavour_to_exclude]:
             if not all_flavours_are_valid(flavours):
                 _print_invalid_flavours(flavours)
